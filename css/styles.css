@@ -43,12 +43,12 @@ header{
 
 /*la imagen del logo es grande y se le colocó unas propiedades para ajustarla a la página*/
 img{
-    max-width: 70%;
+    max-width: 50%;
 }
 
 .im-fig-logo{
-    margin-top: 15px;
-    margin-left: 15px;
+    margin-top: 12px;
+    margin-left: 12px;
 
 }
 
@@ -184,7 +184,7 @@ p{
 
 .footer{
     background-color: #af599e;
-    padding: 0%;
+    padding: 8xp;
     height: 90px;
     box-sizing: border-box;
     color: #fbfbfb;
@@ -192,4 +192,5 @@ p{
     justify-content: center;
 
 }
+
 
